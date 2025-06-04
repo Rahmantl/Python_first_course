@@ -1,2 +1,2 @@
 # Python
-some codes in Maktab-- first course--
+some codes in Maktabkhone
